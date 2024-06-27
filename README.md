@@ -19,9 +19,9 @@
 - 🏢 Connect with me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-florentino-ramos-aaaab3169)
 - 💬 Ask me about **Python, Data Science, SQL, Data Analytics**
 - 🔭 I’m currently working at CNEA, an Argentinian governmental agency
-- 🌱 I’m currently learning **Statistics and MLOps**
+- 🌱 I’m currently learning **Statistics and Forecast**
 - 📚 I have a **Bachelor's Degree in Physics** with expertise in **Data Science, Data Analytics, Python, and Optics**
-- 👯 I’m looking to collaborate on **any Data Science or Data Engineering project**
+- 👯 I’m looking to collaborate on **any Data Science**
 - 📫 How to reach me: **joseramos@cnea.ar**, **joseph0001@gmail.com**
 - 😄 Pronouns: **Joseph**
 - ⚡ Fun fact: The term "bug" in programming was popularized when a real bug was found in a computer.
